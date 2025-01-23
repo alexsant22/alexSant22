@@ -18,4 +18,3 @@ Atualmente, estou fazendo o curso de **Técnico de Desenvolvimento de Sistemas**
 Vamos trocar ideias sobre programação? Me chama aí! 🚀
 
 ![AnimeAdamAppleGIF](https://github.com/user-attachments/assets/7a364f18-ae63-4967-96ff-7419b5dee8d7)
-![SoloLevelingGIF (2)](https://github.com/user-attachments/assets/dd115ddf-b1dc-46e6-bb5f-2a5a65bebc05)
