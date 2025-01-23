@@ -1,15 +1,15 @@
 # 👋 Olá! Eu sou o Alexandre Santos  
 
 - 🎂 **Idade:** 20 anos  
+- 💻 **Área de programação que mais gosto:**  
+  - Back-end ⚙️  
+  - Banco de dados 🗄️
 - 🎧 **Hobbies:**  
   - Ouvir música 🎵  
   - Jogar no PC 🎮  
   - Assistir animes 📺  
   - Ler mangás/manhwas 📖  
-  - Ler livros 📚  
-- 💻 **Área de programação que mais gosto:**  
-  - Back-end ⚙️  
-  - Banco de dados 🗄️  
+  - Ler livros 📚   
 
 ## 🌟 Sobre mim  
 Sou apaixonado por tecnologia e adoro explorar o mundo da programação!  
