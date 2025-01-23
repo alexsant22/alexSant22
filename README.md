@@ -17,6 +17,7 @@
 Atualmente, estou fazendo o curso de **Técnico de Desenvolvimento de Sistemas** e estou me aprofundando no desenvolvimento back-end e no gerenciamento de banco de dados, sempre buscando aprender algo novo.  
 
 **Vamos trocar ideias sobre programação? Me chama aí! 🚀**
+
  📧 alexandre.santana2201@gmail.com
 
 ![AnimeAdamAppleGIF](https://github.com/user-attachments/assets/7a364f18-ae63-4967-96ff-7419b5dee8d7)
