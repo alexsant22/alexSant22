@@ -11,7 +11,7 @@
   - Ler livros 📚   
 
 ## 🌟 Sobre mim 
-- 🎂 **Idade:** 20 anos
+- 🕸️ **Idade:** 20 anos
 - 🗯️ **Eu:**
   - Sou apaixonado por tecnologia e adoro explorar o mundo da programação!  
 Atualmente, estou fazendo o curso de **Técnico de Desenvolvimento de Sistemas** e estou me aprofundando no desenvolvimento back-end e no gerenciamento de banco de dados, sempre buscando aprender algo novo.  
