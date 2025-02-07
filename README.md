@@ -22,4 +22,3 @@ Atualmente, estou fazendo o curso de **Técnico de Desenvolvimento de Sistemas**
 
 ![AnimeAdamAppleGIF](https://github.com/user-attachments/assets/7a364f18-ae63-4967-96ff-7419b5dee8d7)
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexsant22&show_icons=true&theme=radical)
