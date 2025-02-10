@@ -21,4 +21,4 @@
 Atualmente, estou fazendo o curso de **Técnico de Desenvolvimento de Sistemas** e estou me aprofundando no desenvolvimento back-end e no gerenciamento de banco de dados, sempre buscando aprender algo novo.  
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-santana-santos/)
