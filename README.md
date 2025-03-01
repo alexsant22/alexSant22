@@ -13,6 +13,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsant22&layout=compact&theme=tokyonight&langs_count=6&hide=CSS)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexsant22&show_icons=true&theme=dracula)
 
 ## 🌟 Sobre mim 
 
