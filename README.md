@@ -4,6 +4,7 @@
 
 Desenvolvedor back-end em formação com foco em construir APIs eficientes e soluções escaláveis. Atualmente cursando Técnico em Desenvolvimento de Sistemas, com especial interesse em arquitetura de software e otimização de bancos de dados.
 Atualmente me dedicando a:
+
 ⚙️ Desenvolvimento de APIs REST com Java (Spring Boot) e Python
 🗃️ Modelagem e otimização de bancos de dados relacionais (MySQL e MongoDB)
 📚 Estudo contínuo de padrões de projeto e boas práticas de desenvolvimento
