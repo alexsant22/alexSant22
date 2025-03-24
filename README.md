@@ -6,6 +6,7 @@ Atualmente me dedicando a:
   - ⚙️ Desenvolvimento de APIs REST com Java (Spring Boot) e Python
   - 🗃️ Modelagem e otimização de bancos de dados relacionais (MySQL e MongoDB)
   - 📚 Estudo contínuo de padrões de projeto e boas práticas de desenvolvimento
+    
 Busco oportunidades para aplicar e expandir meus conhecimentos em projetos desafiadores!
 
 ## 🛠️ Tecnologias que uso
