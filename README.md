@@ -25,7 +25,7 @@ Busco oportunidades para aplicar e expandir meus conhecimentos em projetos desaf
 ## 📫 Contato Profissional
 
 [![LinkedIn](https://img.shields.io/badge/Alexandre_Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-santana-santos/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandre.santana2201@gmail.com)
+[![Email](https://img.shields.io/badge/alexandre.santana2201@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandre.santana2201@gmail.com)
 
 ## 📊 Estatísticas GitHub
 
