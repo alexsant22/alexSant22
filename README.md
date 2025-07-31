@@ -30,4 +30,4 @@ Busco oportunidades para aplicar e expandir meus conhecimentos em projetos desaf
 ## 📊 Estatísticas GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexsant22&show_icons=true&count_private=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsant22&layout=compact&theme=dark&hide=CSS&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsant22&layout=compact&theme=github_dark&hide=CSS&langs_count=6)
