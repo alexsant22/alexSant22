@@ -31,5 +31,17 @@ Busco oportunidades para aplicar e expandir meus conhecimentos em projetos desaf
 
 ## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexsant22&show_icons=true&count_private=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsant22&layout=compact&theme=github_dark&hide=CSS&langs_count=6)
+### Alexandre Santos' GitHub Stats
+
+![Static Badge](https://img.shields.io/badge/Total_Stars_Earned-12-blue)
+![Static Badge](https://img.shields.io/badge/Total_Commits_(2025)-440-green)
+![Static Badge](https://img.shields.io/badge/Total_PRs-35-orange)
+![Static Badge](https://img.shields.io/badge/Total_Issues-0-red)
+![Static Badge](https://img.shields.io/badge/Contributed_to_(last_year)-6-purple)
+
+### Most Used Languages
+
+![Static Badge](https://img.shields.io/badge/Java-46.15%25-orange)
+![Static Badge](https://img.shields.io/badge/HTML-15.97%25-red)
+![Static Badge](https://img.shields.io/badge/JavaScript-24.98%25-yellow)
+![Static Badge](https://img.shields.io/badge/Python-12.90%25-blue)
