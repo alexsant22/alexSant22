@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Full Stack com foco especializado em Back-End e Banco de Dados. Formado em Técnico em Desenvolvimento de Sistemas, possuo experiência na construção de aplicações completas, unindo performance no servidor com interfaces funcionais.<br><br>Atualmente aplicando conhecimentos em:<br>⚙️ Desenvolvimento de APIs RESTful robustas com Java (Spring Boot) e TypeScript (NestJS)<br>🗃️ Modelagem e gerenciamento de bancos de dados com MySQL, PostgreSQL e Prisma ORM<br>💻 Conhecimento e utilização de React, JavaScript e HTML/CSS<br>🐍 Conhecimento em scripts auxiliares com Python<br>📚 Boas práticas de versionamento e colaboração com Git e GitHub<br><br>Busco oportunidades para aplicar minha visão full stack e criar soluções escaláveis em projetos desafiadores!</p>
+<p align="left">Desenvolvedor Full Stack com foco especializado em Back-End e Banco de Dados. Formado em Técnico em Desenvolvimento de Sistemas e atual graduando em Tecnologia em Sistemas para Internet pelo IFSP, possuo experiência na construção de aplicações completas, unindo performance no servidor com interfaces funcionais.<br><br>Atualmente aplicando conhecimentos em:<br>⚙️ Desenvolvimento de APIs RESTful robustas com Java (Spring Boot) e TypeScript (NestJS)<br>🗃️ Modelagem e gerenciamento de bancos de dados com MySQL, PostgreSQL e Prisma ORM<br>💻 Conhecimento e utilização de React, JavaScript e HTML/CSS<br>🐍 Conhecimento em scripts auxiliares com Python<br>📚 Boas práticas de versionamento e colaboração com Git e GitHub<br><br>Busco oportunidades para aplicar minha visão full stack e criar soluções escaláveis em projetos desafiadores!</p>
 
 ###
 
