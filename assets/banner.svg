@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Olá, sou Alexandre Santos. Desenvolvedor Full Stack com foco em Back-end.">
+  <title>Olá, sou Alexandre Santos</title>
+  <defs>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e1b4b"/><stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="280" rx="16" fill="url(#hero)"/>
+  <g font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" text-anchor="middle">
+    <text x="500.0" y="70" font-size="22" font-weight="700" fill="#8b5cf6">Alex<tspan fill="#e2e8f0">Dev</tspan></text>
+    <text x="500.0" y="138" font-size="40" font-weight="700" fill="#e2e8f0">Olá, sou <tspan fill="#8b5cf6">Alexandre Santos</tspan></text>
+    <text x="500.0" y="180" font-size="22" font-weight="600" fill="#e2e8f0">Desenvolvedor Full Stack com foco em Back-end</text>
+    <text x="500.0" y="214" font-size="17" fill="#94a3b8">Java · Spring Boot · TypeScript · APIs REST</text>
+  </g>
+  <rect x="460.0" y="234" width="80" height="4" rx="2" fill="#8b5cf6"/>
+</svg>

@@ -1,79 +1,72 @@
-<h1 align="center">Olá, eu sou o Alexandre 👋</h1>
-<h3 align="center">Desenvolvedor Back-End | Java · Spring Boot · TypeScript · APIs REST</h3>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexandre-santana-santos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:alexandre.santana2201@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://portifolio-web-alexsantos.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
-</p>
-
----
-
-### 👨‍💻 Sobre mim
-
-Sou desenvolvedor back-end em formação, com foco em **Java, Spring Boot e construção de APIs REST**. Minha base veio do curso Técnico em Desenvolvimento de Software no **SENAI-SP** e do período como aprendiz na **Tecumseh do Brasil**, onde trabalhei com desenvolvimento de software e infraestrutura de TI.
-
-Hoje curso **Tecnologia em Sistemas para Internet no IFSP** e atuo como **Estagiário de Implantação na Visio.ai**. Além de escrever código, acompanho de perto como a solução chega ao cliente e o que acontece quando ela entra em operação — uma visão que tem mudado bastante a forma como penso arquitetura, tratamento de erros e experiência de uso.
-
-- 🔭 Atualmente: Estagiário de Implantação na **Visio.ai**
-- 🎓 Cursando: **Tecnologia em Sistemas para Internet** — IFSP
-- 🌱 Focado em: APIs RESTful com **Spring Boot** e **NestJS**, modelagem de dados e boas práticas de back-end
-- 📍 São Carlos, SP — Brasil
-- 💬 Sempre aberto a trocar ideia sobre back-end, projetos e oportunidades
-
----
-
-### 🛠️ Tecnologias
-
-**Back-End**
-
-<img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,python" alt="Back-End" />
-
-**Banco de dados**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" alt="Banco de dados" />
-
-**Front-End**
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css" alt="Front-End" />
-
-**Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode" alt="Ferramentas" />
-
-Também trabalho com **SQL Server** e com o fluxo de versionamento **GitFlow**.
-
----
-
-### 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| [**ColabManager**](https://github.com/alexsant22/ColabManager) | Sistema de gerenciamento de funcionários com back-end em Spring Boot, front-end em React e um protótipo inicial em Python. | Java · Spring Boot · React · Python |
-| [**FaceShield — Back-End**](https://github.com/FaceShield-SENAI-TCC/Back_End) | Back-end do TCC desenvolvido no SENAI: API REST organizada em camadas (Controller, Service, Repository, DTO) e versionada com GitFlow. | Java · Spring Boot |
-| [**nest-api-base**](https://github.com/alexsant22/nest-api-base) | Estrutura base para criação de APIs com NestJS. | TypeScript · NestJS |
-| [**Portfólio Web**](https://github.com/alexsant22/Portifolio_Web) | Meu portfólio pessoal, publicado na Vercel. | HTML · CSS · JavaScript |
-
----
-
-### 💼 Experiência
-
-- **Visio.ai** — Estagiário de Implantação *(set/2026 – atual)*
-  Implantação da solução em clientes do varejo: configuração e validação no ambiente do cliente, suporte técnico, documentação, treinamento de usuários e ponte entre cliente e times de produto/engenharia.
-- **Visio.ai** — Analista de Vídeos para Controle de Vendas *(mai/2026 – set/2026)*
-  Análise e classificação de gravações, validação dos resultados do sistema e reporte de inconsistências para garantir a qualidade dos dados.
-- **Tecumseh do Brasil** — Aprendiz em Programação de Software *(jul/2024 – dez/2025)*
-  Desenvolvimento front-end com React, apoio em infraestrutura de TI e HelpDesk, participação em diferentes fases do ciclo de desenvolvimento.
-
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alexsant22&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsant22&layout=compact&langs_count=6&theme=dracula&locale=pt-br" alt="Linguagens mais usadas" />
+  <img src="assets/banner.svg" alt="Olá, sou Alexandre Santos. Desenvolvedor Full Stack com foco em Back-end: Java, Spring Boot, TypeScript e APIs REST." width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alexsant22&theme=dracula&locale=pt_BR" alt="Sequência de contribuições" />
+  <a href="https://www.linkedin.com/in/alexandre-santana-santos/"><img src="assets/linkedin-badge.svg" alt="LinkedIn"></a>
+  <a href="mailto:alexandre.santana2201@gmail.com"><img src="https://img.shields.io/badge/Gmail-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://portifolio-web-alexsantos.vercel.app"><img src="https://img.shields.io/badge/Portfólio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+</p>
+
+<h3 align="center">Sobre Mim</h3>
+<p align="center"><img src="assets/barra.svg" alt="" /></p>
+
+Desenvolvedor full stack em formação, com foco em back-end: **Java, Spring Boot e APIs REST**. Técnico em Desenvolvimento de Software pelo **SENAI-SP**, com passagem como aprendiz na **Tecumseh do Brasil**.
+
+Curso **Tecnologia em Sistemas para Internet no IFSP** e sou **Estagiário de Implantação na Visio.ai**, onde acompanho a solução chegando ao cliente. Isso mudou a forma como penso arquitetura, tratamento de erros e experiência de uso.
+
+- 🌱 Foco: APIs REST com **Spring Boot** e **NestJS** e modelagem de dados
+- 📍 São Carlos, SP
+- 💬 Aberto a conversar sobre back-end, projetos e oportunidades
+
+<h3 align="center">Habilidades e Ferramentas</h3>
+<p align="center"><img src="assets/barra.svg" alt="" /></p>
+
+<p align="center">
+  <b>Back-End</b><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,python&theme=dark" alt="Java, Spring, TypeScript, NestJS e Python" />
+</p>
+<p align="center">
+  <b>Banco de dados</b><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark" alt="PostgreSQL, MySQL e Prisma" />
+</p>
+<p align="center">
+  <b>Front-End</b><br>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" alt="React, JavaScript, HTML e CSS" />
+</p>
+<p align="center">
+  <b>Ferramentas</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" alt="Git, GitHub, IntelliJ IDEA e VS Code" />
+</p>
+
+<p align="center">Também: <b>SQL Server</b> e <b>GitFlow</b>.</p>
+
+<h3 align="center">Meus Projetos</h3>
+<p align="center"><img src="assets/barra.svg" alt="" /></p>
+
+<p align="center">
+  <a href="https://github.com/alexsant22/tvd-api"><img src="assets/projeto-tvd-api.svg" width="49%" alt="tvd-api: API REST pública de The Vampire Diaries, com paginação e busca por nome. JavaScript, Node.js e Express. No ar." /></a>
+  <a href="https://github.com/alexsant22/ColabManager"><img src="assets/projeto-colabmanager.svg" width="49%" alt="ColabManager: gestão de funcionários. Java, Spring Boot, React e Python." /></a>
+  <a href="https://github.com/FaceShield-SENAI-TCC/Back_End"><img src="assets/projeto-faceshield.svg" width="49%" alt="FaceShield Back-End: API REST do TCC no SENAI. Java e Spring Boot." /></a>
+  <a href="https://github.com/alexsant22/nest-api-base"><img src="assets/projeto-nest-api-base.svg" width="49%" alt="nest-api-base: base para novas APIs em NestJS. TypeScript e NestJS." /></a>
+  <a href="https://github.com/alexsant22/Portifolio_Web"><img src="assets/projeto-portfolio-web.svg" width="49%" alt="Portfólio Web: meu portfólio pessoal, em HTML, CSS e JavaScript. No ar." /></a>
+</p>
+
+<p align="center"><a href="https://tvd-api.vercel.app/api">tvd-api no ar</a> · <a href="https://portifolio-web-alexsantos.vercel.app">Portfólio no ar</a></p>
+
+<h3 align="center">Experiência</h3>
+<p align="center"><img src="assets/barra.svg" alt="" /></p>
+
+- **Visio.ai** · Estagiário de Implantação *(set/2026 a atual)*
+  Implantação em clientes do varejo: configuração, validação, suporte e treinamento de usuários.
+- **Visio.ai** · Analista de Vídeos para Controle de Vendas *(mai/2026 a set/2026)*
+  Classificação de gravações e validação dos resultados do sistema.
+- **Tecumseh do Brasil** · Aprendiz em Programação de Software *(jul/2024 a dez/2025)*
+  Front-end com React, infraestrutura de TI e HelpDesk.
+
+<h3 align="center">Estatísticas</h3>
+<p align="center"><img src="assets/barra.svg" alt="" /></p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alexsant22&locale=pt_BR&background=0F172A&border=334155&stroke=334155&ring=8B5CF6&fire=8B5CF6&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=8B5CF6&sideLabels=94A3B8&dates=94A3B8&border_radius=12" alt="Sequência de contribuições" />
 </p>
